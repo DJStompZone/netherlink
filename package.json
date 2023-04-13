@@ -24,7 +24,7 @@
   "dependencies": {
     "@icon/foundation-icons": "^3.0.0-alpha.3",
     "baconjs": "^3.0.15",
-    "color": "^3.1.2",
+    "color": "^3.2.1",
     "file-saver": "^2.0.2",
     "foundation-sites": "^6.6.3",
     "hammerjs": "^2.0.8",
